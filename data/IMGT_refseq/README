@@ -1,0 +1,18 @@
+########### Introduction ###########
+
+TCR data downloaded from the IMGT reference sequence database (http://www.imgt.org/vquest/refseqh.html)
+Nucleotide (nt) and aminoacid (aa) data  with (gap) and without (nogap) IMGT alignment gaps have been downloaded in the associated folders.
+
+
+########### Anchor positions #######
+
+Anchor positions are positions which delimit the CDR-IMGT and which belong to the neighbouring FR-IMGT. They are shown in squares in the IMGT Colliers de Perles (IMGT Repertoire). Anchor positions are:
+
+    26 and 39 for the CDR1-IMGT
+    55 and 66 for the CDR2-IMGT
+    104 and 118 for the CDR3-IMGT
+
+
+########## Correspondence between numberings for CDR of different lengths (horizontal display) are given at the following link:
+
+http://www.imgt.org/IMGTScientificChart/Numbering/CDR1-IMGTgaps.html
